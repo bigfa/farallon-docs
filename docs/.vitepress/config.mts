@@ -33,8 +33,19 @@ export default defineConfig({
             {
                 text: "设置",
                 items: [
-                    { text: "sns", link: "/config/sns" },
+                    { text: "SNS", link: "/config/sns" },
                     { text: "菜单", link: "/config/menu" },
+                    { text: "CDN", link: "/config/cdn" },
+                    { text: "小工具", link: "/config/widget" },
+                    { text: "自定义设置", link: "/config/custom" },
+                ],
+            },
+            {
+                text: "文章",
+                items: [
+                    { text: "分类", link: "/writing/category" },
+                    { text: "文章", link: "/writing/post" },
+                    { text: "页面", link: "/writing/template" },
                 ],
             },
         ],
