@@ -13,6 +13,7 @@ export default defineConfig({
             },
         ],
     ],
+    lastUpdated: true,
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: "https://farallon.wpista.com/wp-content/themes/Farallon/build/images/avatar.jpeg",
@@ -20,7 +21,10 @@ export default defineConfig({
             { text: "首页", link: "/" },
             { text: "演示地址", link: "https://farallon.wpista.com/" },
         ],
-
+        footer: {
+            message: "Made with 💗",
+            copyright: "Copyright ©  bigfa",
+        },
         sidebar: [
             {
                 text: "简介",
