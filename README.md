@@ -1,11 +1,13 @@
 # Farallon Docs
 
-Documentation for the Hugo Theme Stack. Powered by VitePress.
+![Wordpress Theme Farallon](https://static.fatesinger.com/2023/06/u1ak8xgmyn9ec24r.png)
+
+Documentation for the Wordpress Theme Farallon. Powered by VitePress.
 
 ```bash
-pnpm install
-pnpm run docs:dev
-pnpm run docs:build
+npm install
+npm run docs:dev
+npm run docs:build
 ```
 
 ## License

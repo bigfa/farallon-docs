@@ -1,6 +1,6 @@
 # Welcome
 
-Farallon 是一款极简 Wordpress 主题
+Farallon 是一款极简 Wordpress 主题。
 
 -   响应式设置
 -   暗黑模式
@@ -11,11 +11,11 @@ Farallon 是一款极简 Wordpress 主题
 -   友好的主题设置
 -   高度自定义分类属性
 
-### 最新版本 <Badge type="tip" text="0.6.0" />
+最新版本 <Badge type="tip" text="0.6.0" />
 
 ## 版权
 
-**Licensed under the GNU General Public License v3.0**
+**严谨修改版权链接重新打包发布的行为**
 
 主题本身有 hugo 版本，如需移植到其他平台请告知。
 
