@@ -1,6 +1,6 @@
-# Welcome
+# 关于
 
-Farallon 是一款极简 Wordpress 主题。
+Farallon 是一款极简 Wordpress 主题，单栏，为个人博客设计。响应式设计，SEO 友好，十分适合个人博客使用。
 
 -   响应式设置
 -   暗黑模式
