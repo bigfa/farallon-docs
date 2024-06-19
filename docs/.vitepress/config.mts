@@ -43,6 +43,7 @@ export default defineConfig({
                     { text: "CDN", link: "/config/cdn" },
                     { text: "小工具", link: "/config/widget" },
                     { text: "自定义设置", link: "/config/custom" },
+                    { text: "功能设置", link: "/config/feature" },
                 ],
             },
             {
