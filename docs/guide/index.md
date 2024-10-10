@@ -11,7 +11,7 @@ Farallon 是一款极简 Wordpress 主题，单栏，为个人博客设计。响
 -   友好的主题设置
 -   高度自定义分类属性
 
-最新版本 <Badge type="tip" text="0.6.0" />
+最新版本 <Badge type="tip" text="0.7.5" />
 
 ## 版权
 

@@ -38,6 +38,7 @@ export default defineConfig({
             {
                 text: "设置",
                 items: [
+                    { text: "基础设置", link: "/config/basic" },
                     { text: "SNS", link: "/config/sns" },
                     { text: "菜单", link: "/config/menu" },
                     { text: "CDN", link: "/config/cdn" },
