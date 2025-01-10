@@ -3,13 +3,16 @@
 layout: home
 
 hero:
-    name: "Farallon"
+    name: "Farallon And Hera"
     tagline: Fast and minimal wordpress theme
     image: https://static.fatesinger.com/2023/06/u1ak8xgmyn9ec24r.png
     actions:
         - theme: brand
-          text: 演示地址
+          text: 演示地址 Farallon
           link: https://farallon.wpista.com/
+        - theme: brand
+          text: 演示地址 Hera
+          link: https://hera.wpista.com/
         - theme: alt
           text: 使用文档
           link: /guide/

@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "Farallon",
+    title: "Farallon And Hera",
     description: "a fast wordpress theme",
     head: [
         [
@@ -19,7 +19,8 @@ export default defineConfig({
         logo: "https://farallon.wpista.com/wp-content/themes/Farallon/build/images/avatar.jpeg",
         nav: [
             { text: "首页", link: "/" },
-            { text: "演示地址", link: "https://farallon.wpista.com/" },
+            { text: "演示地址 Farallon", link: "https://farallon.wpista.com/" },
+            { text: "演示地址 Hera", link: "https://hera.wpista.com/" },
         ],
         footer: {
             message: "Made with 💗",
